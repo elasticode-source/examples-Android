@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cases</string>
+    <string name="visit1">visit 1</string>
+    <string name="visit2">visit 2</string>
+    <string name="value1">state index for case 1</string>
+    <string name="value2">state index for case 2</string>
+    <string name="goal1">goal reached 1</string>
+    <string name="goal2">goal reached 2</string>
+    <string name="share">share info</string>
+</resources>

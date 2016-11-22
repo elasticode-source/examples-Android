@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppTriggerWithEvent</string>
+    <string name="show">show app trigger</string>
+    <string name="event">send an event</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppTriggerWithActions</string>
+    <string name="show">show app trigger with actions</string>
+</resources>
